@@ -1,0 +1,18 @@
+Package: BrainStars
+Type: Package
+Title: query gene expression data and plots from BrainStars (B*)
+Version: 0.99.3
+Date: 2012-03-06
+Author: Itoshi NIKAIDO <dritoshi@gmail.com>
+Maintainer: Itoshi NIKAIDO <dritoshi@gmail.com>
+Description: This package can search and get gene expression data
+    and plots from BrainStars (B*). BrainStars is a quantitative
+    expression database of the adult mouse brain. The database has
+    genome-wide expression profile at 51 adult mouse CNS regions.
+Depends: RCurl, Biobase, methods
+Imports: RJSONIO, Biobase
+License: Artistic-2.0
+LazyLoad: yes
+Collate: 'BrainStars.r' 'annotation.r' 'expression.r' 'figure.r'
+biocViews: Microarray, OneChannel, DataImport
+Packaged: 2012-03-06 05:26:03 UTC; itoshi
