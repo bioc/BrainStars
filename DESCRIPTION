@@ -1,7 +1,7 @@
 Package: BrainStars
 Type: Package
 Title: query gene expression data and plots from BrainStars (B*)
-Version: 0.99.4
+Version: 1.0.0
 Date: 2012-03-06
 Author: Itoshi NIKAIDO <dritoshi@gmail.com>
 Maintainer: Itoshi NIKAIDO <dritoshi@gmail.com>
