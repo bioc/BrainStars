@@ -4,7 +4,6 @@
 %\VignettePackage{BrainStars}
 \documentclass[12pt,fullpage]{article}
 
-\usepackage{auto-pst-pdf}
 \usepackage{amsmath,epsfig,pstricks,fullpage}
 \usepackage{hyperref}
 \usepackage{url}
