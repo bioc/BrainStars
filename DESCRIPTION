@@ -1,7 +1,7 @@
 Package: BrainStars
 Type: Package
 Title: query gene expression data and plots from BrainStars (B*)
-Version: 1.37.0
+Version: 1.37.1
 Date: 2012-03-06
 Author: Itoshi NIKAIDO <dritoshi@gmail.com>
 Maintainer: Itoshi NIKAIDO <dritoshi@gmail.com>
@@ -13,6 +13,7 @@ Depends: RCurl, Biobase, methods
 Imports: RJSONIO, Biobase
 License: Artistic-2.0
 LazyLoad: yes
-Collate: 'BrainStars.r' 'annotation.r' 'expression.r' 'figure.r'
+Collate: 'BrainStars.r' 'annotation.r' 'expression.r' 'figure.r' 'zzz.r'
 biocViews: Microarray, OneChannel, DataImport
 Packaged: 2012-03-06 05:26:03 UTC; itoshi
+PackageStatus: Deprecated
